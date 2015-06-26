@@ -1,4 +1,4 @@
 <resources>
-    <string name="app_name">Self Guided Learning</string>
+    <string name="app_name" translatable="false">Self Guided Learning</string>
     <string name="hello_world">Hello world!</string>
 </resources>
